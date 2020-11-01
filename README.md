@@ -1,4 +1,4 @@
-Psebcool.github.io
+http://Psebcool.github.io
 
 Custom skins for Mr McPowned's Gamepad Viewer by Psebcool for OBS.
 
