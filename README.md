@@ -1,5 +1,3 @@
-http://Psebcool.github.io
-
 # Custom skins for Mr McPowned's Gamepad Viewer by Psebcool for OBS.
 
 1. Custom Arcade Machine Overlay :
@@ -12,6 +10,9 @@ https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Fighting_Comman
 ## Apply a custom overlay 
 paste a custom overlay link at the end of this GamePad Viewer link *(after "css=")* 
 https://gamepadviewer.com/?p=4&css=
+
+## My Github Pages
+http://Psebcool.github.io
 
 ## Help
 Example for Github page : https://github.com/Pete-Lawrence/Pete-Lawrence.github.io
