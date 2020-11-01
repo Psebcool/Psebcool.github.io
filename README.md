@@ -11,7 +11,8 @@ https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Fighting_Comman
 paste a custom overlay link at the end of this GamePad Viewer link *(after "css=")*
 
 https://gamepadviewer.com/?p=4&css=
-*Set the pad number (p=1, p=2, p=3 or p=4) in the link to match with your connected controller.
+
+*Set the pad number (p=1, p=2, p=3 or p=4) in the link to match with your connected controller.*
 
 
 ## My Github Pages
