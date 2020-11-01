@@ -8,7 +8,7 @@ https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Fighting_Comman
 
 
 ## Apply a custom overlay 
-paste a custom overlay link at the end of this GamePad Viewer link *(after "css=")* 
+paste a custom overlay link at the end of this GamePad Viewer link *(after "css=")*
 https://gamepadviewer.com/?p=4&css=
 
 ## My Github Pages
