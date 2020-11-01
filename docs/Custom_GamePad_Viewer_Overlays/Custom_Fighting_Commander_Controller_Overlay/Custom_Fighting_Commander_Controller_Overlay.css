@@ -36,13 +36,13 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     and you can observe it as an example. The sticks, buttons, and directional arrows are missing
     because their appropriate elements will be incorperated when their styling is defined below.
     The entirity of the skin's visual styling is done via background images and CSS sprites. */ 
-    background: url(https://imgur.com/OBKD7bw.png);
+    background: url(img/base.png);
     background-position: 0px 0px;
     height: 500px;
     width: 750px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(https://imgur.com/atYqugB.png);
+    background: url(img/disconnected.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
@@ -58,7 +58,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .custom .trigger{/* These are the actual triggers themselves */
     width:79px;
     height:61px;
-    background: url(https://imgur.com/77VCuAN.png);
+    background: url(img/trigger.png);
     opacity: 0;
 }
 /* The left and right classes below are used to position the triggers
@@ -79,7 +79,7 @@ placement */
 .custom .bumper{
     width: 73px;
     height: 29px;
-    background: url(https://imgur.com/E57RMYV.png);
+    background: url(img/bumper.png);
     opacity: 0;
 }
 .custom .bumpers{
@@ -144,13 +144,13 @@ start and select buttons. */
 }
 /* Setting the size and CSS sprite for the start adn select buttons */
 .custom .start.pressed{
-    background: url(https://imgur.com/hdxzbMs.png);
+    background: url(img/start.png);
     width: 26px;
     height: 16px;
     float: right;
 }
 .custom .back.pressed{
-    background: url(https://imgur.com/RZmLcRy.png);
+    background: url(img/select.png);
     width: 23px;
     height: 13px;
     float: left;
@@ -171,7 +171,7 @@ start and select buttons. */
     height:48px;
 }
 .custom .button.pressed{
-    background: url(https://imgur.com/qcDIHQZ.png);
+    background: url(img/button.png);
 }
 .custom .a{
     top: 165px;
@@ -193,7 +193,7 @@ start and select buttons. */
 /* R1 face button like right bumper */
 .custom .bumper.right.pressed:after {
     content: "";
-    background: url(https://imgur.com/qcDIHQZ.png);
+    background: url(img/button.png);
     position: absolute;
     width:48px;
     height:48px;
@@ -204,7 +204,7 @@ start and select buttons. */
 /* R2 face button like right trigger */
 .custom .trigger-button.right.pressed:after {
     content: "";
-    background: url(https://imgur.com/qcDIHQZ.png);
+    background: url(img/button.png);
     position: absolute;
     width:48px;
     height:48px;
@@ -264,28 +264,28 @@ the CSS inline. */
     height: 43px;
 }
 .custom .face.up.pressed{
-    background: url(https://imgur.com/0SGq3OL.png);
+    background: url(img/dpad_up.png);
     width: 25px;
     height: 43px;
     left: 89px;
     top: 0;
 }
 .custom .face.down.pressed{
-    background: url(https://imgur.com/Ny6LlO5.png);
+    background: url(img/dpad_down.png);
     width: 24px;
     height: 41px;
     left: 89px;
     top: 43px;
 }
 .custom .face.left.pressed{
-    background: url(https://imgur.com/liJnnpd.png);
+    background: url(img/dpad_left.png);
     width: 41px;
     height: 24px;
     top: 31px;
     left: 59px;
 }
 .custom .face.right.pressed{
-    background: url(https://imgur.com/vggKciS.png);
+    background: url(img/dpad_right.png);
     width: 42px;
     height: 24px;
     top: 31px;
