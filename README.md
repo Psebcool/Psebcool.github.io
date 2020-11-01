@@ -12,7 +12,7 @@ paste a custom overlay link at the end of this GamePad Viewer link *(after "css=
 https://gamepadviewer.com/?p=4&css=
 
 ## My Github Pages
-http://Psebcool.github.io
+http://Psebcool.github.io/
 
 ## Help
 Example for Github page : https://github.com/Pete-Lawrence/Pete-Lawrence.github.io
