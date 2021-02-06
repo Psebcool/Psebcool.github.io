@@ -297,8 +297,8 @@ themselves are fairly self explanatory. */
     position: absolute;
     width: 1920px;
     height: 1080px;
-    top: 613px;
-    left: 693px;
+    top: 0px;
+    left: 0px;
     opacity: 1;
 }
 .fstick.up{
