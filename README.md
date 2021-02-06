@@ -1,6 +1,6 @@
 # OBS overlays for Mr McPowned's Gamepad Viewer by Psebcool.
 
-1. Custom Arcade Machine Overlay :
+1. Custom Arcade Machine Overlays :
 https://psebcool.github.io/GamePad_Viewer_Overlays/Custom_Arcade_Machine_v1/Custom_Arcade_Machine_v1.css
 https://psebcool.github.io/GamePad_Viewer_Overlays/Custom_Arcade_Machine_v2/Custom_Arcade_Machine_v2.css
 
