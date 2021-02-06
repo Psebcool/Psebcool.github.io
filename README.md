@@ -1,10 +1,8 @@
 # Custom skins for Mr McPowned's Gamepad Viewer by Psebcool for OBS.
 
 1. Custom Arcade Machine Overlay :
-https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Arcade_Machine_Overlay/Custom_Arcade_Machine_Overlay.css
-
-1a. Custom Arcade Machine Overlay v2 :
-https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Arcade_Machine_Overlay/Custom_Arcade_Machine_Overlay_v2.css
+v1 https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Arcade_Machine_Overlay/Custom_Arcade_Machine_Overlay.css
+v2 https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Arcade_Machine_Overlay/Custom_Arcade_Machine_Overlay_v2.css
 
 2. Custom Fighting Commander Controller Overlay :
 https://psebcool.github.io/Custom_GamePad_Viewer_Overlays/Custom_Fighting_Commander_Controller_Overlay/Custom_Fighting_Commander_Controller_Overlay.css
