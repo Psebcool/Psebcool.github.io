@@ -295,8 +295,8 @@ themselves are fairly self explanatory. */
 .custom .fstick{
     background: url(img/stick.png);
     position: absolute;
-    width: 213px;
-    height: 428px;
+    width: 1920px;
+    height: 1080px;
     top: 613px;
     left: 693px;
     opacity: 1;
