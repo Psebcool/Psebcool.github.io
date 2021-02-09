@@ -4,7 +4,10 @@
 https://psebcool.github.io/GamePad_Viewer_Overlays/Custom_Arcade_Machine_v1/Custom_Arcade_Machine_v1.css
 https://psebcool.github.io/GamePad_Viewer_Overlays/Custom_Arcade_Machine_v2/Custom_Arcade_Machine_v2.css
 
-2. Custom Fighting Commander Controller Overlay :
+2. Custom Arcade Machine Overlays Specials Guests : 
+https://psebcool.github.io/GamePad_Viewer_Overlays/Custom_Arcade_Machine_MrQUARATE/Custom_Arcade_Machine_MrQUARATE.css
+
+3. Custom Fighting Commander Controller Overlay :
 https://psebcool.github.io/GamePad_Viewer_Overlays/Custom_Fighting_Commander_Controller/Custom_FC_Controller.css
 
 
